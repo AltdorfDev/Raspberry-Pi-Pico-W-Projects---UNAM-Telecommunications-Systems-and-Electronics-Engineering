@@ -1,0 +1,2 @@
+# Raspberry-Pi-Pico-W-Projects---UNAM-Telecommunications-Systems-and-Electronics-Engineering
+This repository contains my practice projects with the Raspberry Pi Pico W, created as part of my Telecommunications, Systems, and Electronics Engineering studies at UNAM. It includes hands-on activities for learning embedded systems, IoT, and digital communication, with clear instructions and organized code examples.
